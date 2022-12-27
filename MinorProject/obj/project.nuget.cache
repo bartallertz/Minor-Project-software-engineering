@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xglzeH9QOT+MiqrAImVTMNCUaU0HWJTQ4glQO6I2eDrmhuMXaR2232nhxu26rQ5FdwSSEmkgMxBx46K5NlXpSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barta\\OneDrive\\Bureaublad\\MinorProject\\New folder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barta\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\barta\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

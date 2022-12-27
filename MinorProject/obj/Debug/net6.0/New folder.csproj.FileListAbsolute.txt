@@ -1,0 +1,34 @@
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.csproj.AssemblyReference.cache
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.AssemblyInfoInputs.cache
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.AssemblyInfo.cs
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\New folder.exe
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\New folder.deps.json
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\New folder.runtimeconfig.json
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\New folder.pdb
+C:\Users\barta\OneDrive\Bureaublad\New folder\bin\Debug\net6.0\Npgsql.dll
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.csproj.CopyComplete
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\refint\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.pdb
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\New folder.genruntimeconfig.cache
+C:\Users\barta\OneDrive\Bureaublad\New folder\obj\Debug\net6.0\ref\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\New folder.exe
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\New folder.deps.json
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\New folder.runtimeconfig.json
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\New folder.pdb
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\bin\Debug\net6.0\Npgsql.dll
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.csproj.AssemblyReference.cache
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.AssemblyInfoInputs.cache
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.AssemblyInfo.cs
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.csproj.CopyComplete
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\refint\New folder.dll
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.pdb
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\New folder.genruntimeconfig.cache
+C:\Users\barta\OneDrive\Bureaublad\MinorProject\obj\Debug\net6.0\ref\New folder.dll
